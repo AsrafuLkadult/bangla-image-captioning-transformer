@@ -3,7 +3,7 @@
 > Official implementation of the paper:  
 > **"Automatic Bangla Image Captioning Based on Transformer Model in Deep Learning"**  
 > Published in *International Journal of Advanced Computer Science and Applications (IJACSA), Dec 2023*  
-> [📄 Read Paper](https://doi.org/10.14569/IJACSA.2023.0141260)
+> [📄 Read Paper](http://dx.doi.org/10.14569/IJACSA.2023.01411113)
 
 ---
 
